@@ -1,0 +1,19 @@
+body {
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 6rem ;
+    background-color: #f8c1d0;
+}
+
+#project {
+    background-color: #f8c1d0;
+}
+
+.footer {
+    background-color: #ee2964;
+}
+svg {
+    display: block;
+    margin-bottom: -1px;
+}
